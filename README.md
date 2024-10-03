@@ -38,28 +38,19 @@ Admin Panel -> Manage -> Help Topics
 Business Critical Outage
 Personal Computer Issues
 Equipment Request
-Password Reset
+Password Reset[
 Other
 
 <h2>Configuration Steps</h2>
 
+(https://imgur.com/FzoU9hD)<br />
 
 
-</p>
-<br />
+(https://imgur.com/yztIqJf)</p>
 
-<p>
-<img src="["](https://imgur.com/yztIqJf) height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
-</p>
-<br />
+(https://imgur.com/4Mxi62s)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+(https://imgur.com/5Od9Gri)
 
-</p>
-<br />
+(https://imgur.com/XOjk8Zs)
