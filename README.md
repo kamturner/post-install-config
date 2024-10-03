@@ -48,13 +48,13 @@ In this image, you can see that you can configure different types of roles for e
 
 
 (https://imgur.com/yztIqJf)</p>
-In this image, you can see how to configure differnt departments within each group and who can edit and view differnt types of tickets
+In this image, you can see how to configure different departments within each group and who can edit and view differnt types of tickets
 
 (https://imgur.com/4Mxi62s)
-In this image you can see how to go about configuring different teams for differnt types of projects 
+In this image, you can see how to go about configuring different teams for differnt types of projects 
 
 (https://imgur.com/5Od9Gri)
-Here you can see how to go about seting differnt types of SLA and setting the grace period for differnt types 
+Here you can see how to go about seting differnt types of SLA and setting the grace period for differnt types of tickets
 
 (https://imgur.com/XOjk8Zs)
-in this image, you can put different types of help topics or for when users create the ticket for the agent to complete
+in this image, you can put different types of help topics or for when users create the ticket for the agent to solve
